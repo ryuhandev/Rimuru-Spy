@@ -20,8 +20,9 @@
 	Build scripts are available in /build
 ]]
 
-local a,b={UseWorkspace=false,NoActors=false,FolderName='Sigma Spy',RepoUrl=
-[[https://raw.githubusercontent.com/depthso/Sigma-Spy/refs/heads/main]],
+
+local a,b={UseWorkspace=false,NoActors=false,FolderName='Rimuru Spy',RepoUrl=
+[[https://raw.githubusercontent.com/ryuhandev/Rimuru-Spy/refs/heads/main]],
 ParserUrl=
 [[https://raw.githubusercontent.com/depthso/Roblox-parser/refs/heads/main/dist/Main.luau]]
 },{...}local c=b[1]if typeof(c)=='table'then for d,e in c do a[d]=e end end
