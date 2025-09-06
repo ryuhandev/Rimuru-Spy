@@ -1,23 +1,5 @@
 --[[
-	⣿⣿⣿⣿⣿ SIGMA SPY ⣿⣿⣿⣿⣿
-	⣿⣿⣯⡉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉
-	⠉⠻⣿⣿⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-	⠀⠀⠈⠻⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-	⠀⠀⠀⠀⠀⠙⢿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀
-	⠀⠀⠀⠀⠀⠀⠀⣉⣿⣿⣿⠆⠀⠀⠀⠀⠀⠀⠀
-	⠀⠀⠀⠀⠀⣠⣾⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀
-	⠀⠀⢀⣴⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-	⣀⣴⣿⣿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-	⣿⣿⣟⣁⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
-	⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-
-	@author depso (depthso)
-	@repo https://github.com/depthso
-	@license MIT
-	@description Sigma Remote Spy for Roblox
-    
-	This file is COMPILED, check /src folder for the source
-	Build scripts are available in /build
+   LUA SPYER ENCHANTED BY RYUHAN
 ]]
 
 
@@ -97,3 +79,4 @@ local w=e:MakeActorScript(g,t)k:LoadHooks(w,t)local x=l:AskUser{Title=
 ,"If it doesn't work, rejoin and press 'No'",'',
 '(This does not affect game functionality)'},Options={'Yes','No'}}=='Yes'u:Fire(
 'BeginHooks',{PatchFunctions=x})
+
